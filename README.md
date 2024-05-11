@@ -27,7 +27,7 @@ This is a simple Telegram bot created by [Aryan](https://github.com/aryanshar-bo
 2. Install the required dependencies:
 
     ```bash
-    pip install telebot
+    pip install -r requirements.txt
     ```
 
 3. Obtain a Telegram bot token from the BotFather and replace `"YOUR_TOKEN"` in `main.py` with your token.

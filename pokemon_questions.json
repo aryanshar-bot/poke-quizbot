@@ -1,0 +1,142 @@
+[
+    {
+      "question": "Who is Ash's first Pokemon in the anime series?",
+      "options": ["Pikachu", "Charmander", "Bulbasaur", "Squirtle"],
+      "answer": "Pikachu"
+    },
+    {
+      "question": "What is the name of the main city in the Pokemon series?",
+      "options": ["Pallet Town", "Celadon City", "Viridian City", "Saffron City"],
+      "answer": "Pallet Town"
+    },
+    {
+      "question": "Which Pokemon does Misty primarily use in battles?",
+      "options": ["Starmie", "Psyduck", "Togepi", "Goldeen"],
+      "answer": "Starmie"
+    },
+    {
+      "question": "Who is the leader of Team Rocket?",
+      "options": ["Jessie", "James", "Meowth", "Giovanni"],
+      "answer": "Giovanni"
+    },
+    {
+      "question": "What type of Pokemon is Mewtwo?",
+      "options": ["Psychic", "Ghost", "Dark", "Dragon"],
+      "answer": "Psychic"
+    },
+    {
+      "question": "Which Pokemon is known for its ability to evolve into three different forms?",
+      "options": ["Eevee", "Pikachu", "Jigglypuff", "Snorlax"],
+      "answer": "Eevee"
+    },
+    {
+      "question": "What does Team Rocket always say before blasting off?",
+      "options": ["Prepare for trouble, and make it double!", "I choose you!", "To protect the world from devastation!", "It's time to duel!"],
+      "answer": "Prepare for trouble, and make it double!"
+    },
+    {
+      "question": "Who is the gym leader of Cerulean City?",
+      "options": ["Misty", "Brock", "Sabrina", "Lt. Surge"],
+      "answer": "Misty"
+    },
+    {
+      "question": "What does Brock aspire to become?",
+      "options": ["Pokemon Breeder", "Pokemon Master", "Pokemon Professor", "Pokemon Trainer"],
+      "answer": "Pokemon Breeder"
+    },
+    {
+      "question": "What is the name of Ash's hometown?",
+      "options": ["Pallet Town", "Viridian City", "Cerulean City", "Pewter City"],
+      "answer": "Pallet Town"
+    },
+    {
+      "question": "Which Pokemon does Ash Ketchum catch in the first episode of the series?",
+      "options": ["Caterpie", "Pidgeotto", "Rattata", "Pikachu"],
+      "answer": "Caterpie"
+    },
+    {
+      "question": "What is the name of the bike gang that Misty's sisters are a part of?",
+      "options": ["Joy Riders", "Bicycle Bunch", "Cycle Squad", "Wheelie Warriors"],
+      "answer": "Bicycle Bunch"
+    },
+    {
+      "question": "Which Pokemon is known as the 'Dragon Pokemon'?",
+      "options": ["Dragonite", "Gyarados", "Charizard", "Onix"],
+      "answer": "Dragonite"
+    },
+    {
+      "question": "Who is the first gym leader Ash faces in the Kanto region?",
+      "options": ["Brock", "Misty", "Lt. Surge", "Erika"],
+      "answer": "Brock"
+    },
+    {
+      "question": "What is the name of Ash's rival in the Pokemon series?",
+      "options": ["Gary Oak", "Paul", "Ritchie", "Tracey Sketchit"],
+      "answer": "Gary Oak"
+    },
+    {
+      "question": "Which Pokemon is known as the 'Fire Horse'?",
+      "options": ["Ponyta", "Rapidash", "Arcanine", "Charizard"],
+      "answer": "Rapidash"
+    },
+    {
+      "question": "What is the name of the island where the Orange League takes place?",
+      "options": ["Mikan Island", "Tangelo Island", "Pummelo Island", "Valencia Island"],
+      "answer": "Pummelo Island"
+    },
+    {
+      "question": "Who is the first Pokemon Ash ever catches?",
+      "options": ["Pidgeotto", "Caterpie", "Pikachu", "Charmander"],
+      "answer": "Caterpie"
+    },
+    {
+      "question": "Which Pokemon does James of Team Rocket often use?",
+      "options": ["Koffing", "Ekans", "Meowth", "Wobbuffet"],
+      "answer": "Koffing"
+    },
+    {
+      "question": "What is the name of Ash's father?",
+      "options": ["Delia", "Giovanni", "Oak", "Unknown"],
+      "answer": "Unknown"
+    },
+    {
+      "question": "Who is the nurse who appears in most Pokemon Centers?",
+      "options": ["Nurse Joy", "Nurse Jenny", "Nurse Rita", "Nurse Joyner"],
+      "answer": "Nurse Joy"
+    },
+    {
+      "question": "Which Pokemon type is weak against Water-type attacks?",
+      "options": ["Fire", "Electric", "Grass", "Fighting"],
+      "answer": "Fire"
+    },
+    {
+      "question": "Who does Ash leave his Charizard with for additional training?",
+      "options": ["Brock", "Misty", "Charizard stays with Ash", "Liza"],
+      "answer": "Liza"
+    },
+    {
+      "question": "What is the name of the organization that aims to protect Pokemon from abuse?",
+      "options": ["Team Rocket", "Team Aqua", "Team Galactic", "Team Plasma"],
+      "answer": "Team Plasma"
+    },
+    {
+      "question": "What is the name of the Pokemon professor in the Kanto region?",
+      "options": ["Professor Oak", "Professor Elm", "Professor Birch", "Professor Ivy"],
+      "answer": "Professor Oak"
+    },
+    {
+      "question": "Which Pokemon is known as the 'Flame Pokemon'?",
+      "options": ["Charmander", "Vulpix", "Growlithe", "Ponyta"],
+      "answer": "Charmander"
+    },
+    {
+      "question": "What is the name of Ash's traveling companion in the Hoenn region?",
+      "options": ["May", "Dawn", "Serena", "Misty"],
+      "answer": "May"
+    },
+    {
+      "question": "Which Pokemon does Ash's Pikachu often face off against?",
+      "options": ["Meowth", "Team Rocket's Meowth", "Persian", "Skitty"],
+      "answer": "Team Rocket's Meowth"
+    }
+]

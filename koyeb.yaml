@@ -1,0 +1,8 @@
+name: my-telegram-bot
+version: 1
+deployment:
+  containers:
+    - image: python:3.9
+      entrypoint:
+        - "python"
+        - "main.py"

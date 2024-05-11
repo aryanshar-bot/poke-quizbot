@@ -7,7 +7,7 @@ import random
 import time
 from telebot import types
 
-BOT_TOKEN = environ.get("BOT_TOKEN","")
+BOT_TOKEN = environ.get("BOT_TOKEN","your-bot-token")
 bot = telebot.TeleBot(BOT_TOKEN)
 
 app = Flask(__name__)
